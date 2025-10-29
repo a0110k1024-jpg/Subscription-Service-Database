@@ -1,6 +1,6 @@
 # 🔔 Subscription Service Database
 
-**Author:** Vandana Tanwar  
+**Author:**  Aryan
 **Project Type:** DBMS / Oracle SQL  
 **Date Generated:** 2025-10-29
 
